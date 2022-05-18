@@ -1,4 +1,4 @@
-# card-frontend
+# infinite-tech
 
 ## Project setup
 ```
